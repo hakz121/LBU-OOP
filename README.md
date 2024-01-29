@@ -9,7 +9,7 @@
 ## Work Schedule
 **1 Getting Started**\
 **committed by 5th February**\
-1 Hello World        -- to do\
+1 Hello World        -- Complete\
 2 Test               -- to do\
 3 Personal Details   -- to do\
 4 Diamonds           -- to do\
