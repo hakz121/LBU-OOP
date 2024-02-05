@@ -10,8 +10,8 @@
 **1 Getting Started**\
 **committed by 5th February**\
 1 Hello World        -- Complete\
-2 Test               -- to do\
-3 Personal Details   -- to do\
+2 Test               -- Complete\
+3 Personal Details   -- Complete\
 4 Diamonds           -- to do\
 5 Questions          -- to do
 
