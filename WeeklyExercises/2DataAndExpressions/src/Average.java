@@ -21,3 +21,4 @@ a
 double calculatedAverage = total/size:
         System.out.println("The average of your numbers is "
                            calculatedAverage).
+
