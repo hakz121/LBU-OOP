@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MyInputExample3 {
+public class MyInputExample4 {
 
     public static void main(String[] args) {
         System.out.println("Please enter you name: "); //prompts user input
